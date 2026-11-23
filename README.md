@@ -17,10 +17,11 @@ const fabricio = {
   local: "Rio de Janeiro, RJ",
   formacao: "Análise e Desenvolvimento de Sistemas · Estácio",
   objetivo: "Estágio em desenvolvimento de software",
-  noDiaADia: ["JavaScript", "TypeScript", "Java", "HTML", "CSS", "SQL"],
-  aprendendoAgora: ["Python", "PHP", "Banco de dados"],
+  maisDominio: ["HTML", "CSS"],
+  estudandoEPraticando: ["Java", "Python", "JavaScript"],
+  jaUseiEmProjetos: ["TypeScript", "Next.js", "PHP", "SQL"],
   proximoPasso: "C++",
-  ferramentas: ["VS Code", "IntelliJ", "Git", "GitHub", "Supabase", "Vercel"],
+  ferramentas: ["VS Code", "IntelliJ", "Google Colab", "XAMPP", "Git", "GitHub", "Supabase", "Vercel"],
 };
 ```
 
@@ -28,16 +29,20 @@ const fabricio = {
 
 <table>
   <tr>
-    <td align="center" width="150"><b>Uso no dia a dia</b></td>
-    <td><img src="https://skillicons.dev/icons?i=js,ts,java,html,css,nextjs,react,tailwind&perline=8" alt="JavaScript, TypeScript, Java, HTML, CSS, Next.js, React, Tailwind"></td>
+    <td align="center" width="170"><b>Mais domínio</b></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css&perline=8" alt="HTML, CSS"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>🌱 Estudando e praticando</b></td>
+    <td><img src="https://skillicons.dev/icons?i=java,python,js&perline=8" alt="Java, Python, JavaScript"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Já usei em projetos</b></td>
+    <td><img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,php&perline=8" alt="TypeScript, Next.js, React, Tailwind, PHP"></td>
   </tr>
   <tr>
     <td align="center"><b>Dados</b></td>
     <td><img src="https://skillicons.dev/icons?i=supabase,postgres,mysql,sqlite&perline=8" alt="Supabase, PostgreSQL, MySQL, SQLite"></td>
-  </tr>
-  <tr>
-    <td align="center"><b>🌱 Aprendendo agora</b></td>
-    <td><img src="https://skillicons.dev/icons?i=python,php&perline=8" alt="Python, PHP"></td>
   </tr>
   <tr>
     <td align="center"><b>Ferramentas</b></td>
